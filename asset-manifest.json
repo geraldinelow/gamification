@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gamification/static/css/main.98347e4e.chunk.css",
+    "main.js": "/gamification/static/js/main.92ce0975.chunk.js",
+    "main.js.map": "/gamification/static/js/main.92ce0975.chunk.js.map",
+    "runtime-main.js": "/gamification/static/js/runtime-main.e266bb48.js",
+    "runtime-main.js.map": "/gamification/static/js/runtime-main.e266bb48.js.map",
+    "static/css/2.0624914a.chunk.css": "/gamification/static/css/2.0624914a.chunk.css",
+    "static/js/2.3fdeb86c.chunk.js": "/gamification/static/js/2.3fdeb86c.chunk.js",
+    "static/js/2.3fdeb86c.chunk.js.map": "/gamification/static/js/2.3fdeb86c.chunk.js.map",
+    "index.html": "/gamification/index.html",
+    "precache-manifest.061ae6fbedbdd3d719de9be65f8baded.js": "/gamification/precache-manifest.061ae6fbedbdd3d719de9be65f8baded.js",
+    "service-worker.js": "/gamification/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/gamification/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.98347e4e.chunk.css.map": "/gamification/static/css/main.98347e4e.chunk.css.map",
+    "static/media/logo.svg": "/gamification/static/media/logo.25bf045c.svg"
+  }
+}
